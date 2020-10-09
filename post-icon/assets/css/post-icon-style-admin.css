@@ -1,0 +1,11 @@
+.post-icon-dashicons-wrap {
+    margin-top: 20px;
+    display: none;
+}
+.post-icon-dashicons-wrap .dashicons {
+    margin: 5px 5px 0 0;
+    cursor: pointer;
+}
+.toggle-list.dashicons {
+    cursor: pointer;
+}
